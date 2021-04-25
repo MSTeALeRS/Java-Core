@@ -38,6 +38,8 @@ public class app {
 
 		System.out.println("Найбільше значення = " + max);
 		System.out.println("Найменше значення = " + min);
+		
+//		first comit
 
 	}
 
